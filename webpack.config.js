@@ -60,7 +60,7 @@ module.exports = {
         options: {
           cache: true,
           failOnError: false,
-          fix: true   // Fix error
+          fix: true
         }
       },
       {
